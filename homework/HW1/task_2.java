@@ -1,4 +1,4 @@
-package homework.HW1;
+package HW1;
 // Реализовать алгоритм пирамидальной сортировки (HeapSort)
 public class task_2 {
 

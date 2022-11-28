@@ -1,4 +1,4 @@
-package homework.HW3;
+package HW3;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;

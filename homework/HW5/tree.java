@@ -1,4 +1,4 @@
-package homework.HW5;
+package HW5;
 
 
 public class tree {

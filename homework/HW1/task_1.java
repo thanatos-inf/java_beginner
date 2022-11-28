@@ -1,4 +1,4 @@
-package homework.HW1;
+package HW1;
 // Написать программу вычисления n-ого треугольного числа.
 public class task_1 {
     public static void main(String[] args) {

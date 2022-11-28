@@ -1,4 +1,4 @@
-package homework.HW4;
+package HW4;
 // Реализовать алгоритм быстрой сортировки
 import java.util.Arrays;
 
