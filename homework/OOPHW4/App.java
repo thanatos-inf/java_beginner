@@ -21,7 +21,7 @@ public class App {
     public void start(ArrayList<Person> list) {
         try (Scanner in = new Scanner(System.in)) {
             while (true) {
-                System.out.println("Press: 1 - Find a person by ID  2 - Show the list of persons");
+                System.out.println("Press: 1 - Find a person by ID  2 - Show the list of persons 3 - Exit the program");
                 String key = in.next();
                 switch (key) {
                     case "1":
@@ -34,6 +34,8 @@ public class App {
                         showList(list);
                         System.out.println();
                         break;
+                    case "3":
+                        System.exit(0);
 
                     default:
                         System.out.println("Sorry! There is no such command!");
